@@ -1,5 +1,9 @@
 # geotrellis-spark-sql
 
+<big><strong>NOTE: This library has been replaced by [RasterFrames](https://github.com/s22s/raster-frames), and is now end-of-life. Please consider switching to this enriched take on supporting geospatial imagery in Spark SQL.</strong><big>
+ 
+ ----
+
  [ ![Download](https://api.bintray.com/packages/s22s/maven/geotrellis-spark-sql/images/download.svg) ](https://bintray.com/s22s/maven/geotrellis-spark-sql/_latestVersion)
 
 [![Build Status](https://travis-ci.org/s22s/geotrellis-spark-sql.svg?branch=master)](https://travis-ci.org/s22s/geotrellis-spark-sql)
